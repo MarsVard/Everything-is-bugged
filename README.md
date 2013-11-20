@@ -10,13 +10,13 @@ original article on the issue: http://doctorbeet.blogspot.be/2013/11/lg-smart-tv
 
 Known domains for now
 =====================
-* ad.lgappstv.com
-* ibis.lgappstv.com
-* smartshare.lgtvsdp.com
-* llnwd.net
-* smartclip.com
-* smartclip.net
-* yumenetworks.com
+* LG
+  * ad.lgappstv.com
+  * ibis.lgappstv.com
+  * smartshare.lgtvsdp.com
+  * smartclip.com
+  * smartclip.net
+  * yumenetworks.com
 
 
 ----------
