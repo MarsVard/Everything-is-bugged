@@ -25,5 +25,4 @@ Known domains for now
 TODO
 =====================
 * Add blocking instructions
-* create a HOSTS file
 
